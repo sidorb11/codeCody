@@ -71,10 +71,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-17" />
-    <option name="width" value="1137" />
-    <option name="height" value="1047" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-18" />
+    <option name="width" value="1138" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -109,7 +109,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540213447735" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553518073184" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
@@ -124,7 +126,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Arrays">
+  <component name="RunManager" selected="Application.Scope">
     <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tutorials.tutorials.basic.Arrays" />
       <module name="codeMonkey" />
@@ -145,13 +147,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutorials.tutorials.basic.Loops" />
-      <module name="codeMonkey" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Object" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tutorials.tutorials.basic.Object" />
       <module name="codeMonkey" />
@@ -166,20 +161,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Scope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutorials.tutorials.basic.Scope" />
+      <module name="codeMonkey" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tutorials.tutorials.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Loops" />
       <item itemvalue="Application.Object" />
       <item itemvalue="Application.ClassesAndObjects" />
       <item itemvalue="Application.ReferenceAndValueTypes" />
       <item itemvalue="Application.Arrays" />
+      <item itemvalue="Application.Scope" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Scope" />
         <item itemvalue="Application.Arrays" />
         <item itemvalue="Application.ReferenceAndValueTypes" />
         <item itemvalue="Application.ClassesAndObjects" />
         <item itemvalue="Application.Object" />
-        <item itemvalue="Application.Loops" />
       </list>
     </recent_temporary>
   </component>

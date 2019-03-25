@@ -1,7 +1,5 @@
 package tutorials.tutorials.basic;
 
-import tutorials.tutorials.basic.Person;
-
 public class ReferenceAndValueTypes {
     public static void main( String[] args ) {
          int x=5;
